@@ -1,2 +1,1 @@
-##日常go的练习
--go并发
+# go_exercise
